@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cinema name="Gaumont">
+
+    <movie>
+        <title>movie title 0</title>
+        <year>1972</year>
+    </movie>
+    <movie>
+        <title>movie title 1</title>
+        <year>1999</year>
+    </movie>
+    <movie>
+        <title>movie title 2</title>
+        <year>1996</year>
+    </movie>
+    <movie>
+        <title>movie title 3</title>
+        <year>2002</year>
+    </movie>
+</cinema>
